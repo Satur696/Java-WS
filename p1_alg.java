@@ -3,7 +3,7 @@ public class p1_alg {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		int y = 32;
-		String nome = "Maria";
+		String nome = "Star";
 		int idade = 32;
 		double renda = 4000.0;
 		System.out.println(y);
